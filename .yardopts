@@ -5,6 +5,7 @@
 --exclude Library/Homebrew/test/
 --exclude Library/Homebrew/vendor/
 --exclude Library/Homebrew/compat/
+--output-dir ./
 Library/Homebrew/**/*.rb
 -
 share/doc/homebrew/*.html
