@@ -1,5 +1,4 @@
 # Homebrew
-
 Features, usage and installation instructions are [summarised on the homepage](http://brew.sh).
 
 ## What Packages Are Available?
