@@ -2,3 +2,5 @@ docstand:
   yard:
     options:
       --asset: LICENSE
+    machine:
+      cpu: 1.0
