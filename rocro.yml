@@ -3,4 +3,4 @@ docstand:
     options:
       --asset: LICENSE
     machine:
-      cpu: 0.25
+      cpu: 1.0
